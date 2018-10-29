@@ -1,5 +1,5 @@
 # CROWDFORCE SMART CONTRACT
-[![CROWDFORCE](mobile_logo_dark.svg?raw=true "CROWDFORCE")](http://crowdforce.io)
+[![CROWDFORCE](mobile_logo_dark.svg "CROWDFORCE")](http://crowdforce.io)
 
 
 The ICO contracts of [CROWDFORCE](http://crowdforce.io).  
