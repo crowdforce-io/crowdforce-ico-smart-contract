@@ -1,5 +1,13 @@
 # CROWDFORCE SMART CONTRACT
-Ethereum based smart contract for crowdforce platform
+[![ALIS](./mobile_logo_dark.svg?raw=true)](http://crowdforce.io)
+
+
+The ICO contracts of [CROWDFORCE](http://crowdforce.io).  
+Let me know from our social channels if you have any questions.  
+
+
+## Intro.
+This is an Ethereum based smart contract for the crowdforce platform
 
 # HOW TO TEST AND DEPLOY ON REMIX
 1. First get [metamask](https://metamask.io/) google chrome extension
